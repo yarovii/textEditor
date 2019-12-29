@@ -2,3 +2,9 @@
     -fx-faint-focus-color: transparent;
     -fx-focus-color:rgba(0,0,0,0.2)
 }
+
+.hBox{
+    -fx-background-color: #2f4f4f;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}
